@@ -77,7 +77,7 @@ SKILL_20150317_000076	[Desmodus] Physical, Stab, Dark Property Body Blow
 SKILL_20150317_000077	[Pino] Physical Blow, Earth Property Attack 1 time(s)
 SKILL_20150317_000078	[Cauliflower] Physical, Stab, Posion Property, Smash with tentacle
 SKILL_20150317_000079	[Cauliflower] Physical, Stab, Posion Property, Smash with tentacle
-SKILL_20150317_000080	[Cauliflower] Physical, Stab, Posion Property, 바닥을 내려치기
+SKILL_20150317_000080	[Cauliflower] Physical, Stab, Posion Property, Hit the ground
 SKILL_20150317_000081	[Helmet Bug] Physical, Stab, Earth Property, Attack 1 time(s)
 SKILL_20150317_000082	[Helmet Bug] Normal Attack2
 SKILL_20150317_000083	[Bikaaras Mage] Magic, Magic, Fire Property, Attack 1 time(s)
@@ -784,9 +784,9 @@ SKILL_20150317_000783	[Monk Master] Normal attack
 SKILL_20150317_000784	[Oracle Master] Normal attack
 SKILL_20150317_000785	[Druid Master] Normal attack
 SKILL_20150317_000786	Basic Attack
-SKILL_20150317_000787	Attack the enemy nearby
+SKILL_20150317_000787	Attack the closest enemy
 SKILL_20150317_000788	Bow right hand (For two hand bow)
-SKILL_20150317_000789	Damage nearby enemy by swinging weapon.
+SKILL_20150317_000789	Damage nearby enemies by swinging your weapon.
 SKILL_20150317_000790	Magic attack to the enemy at a long distance.
 SKILL_20150317_000791	Attack the enemy at close range(Two-hand Sword Warrior Only)
 SKILL_20150317_000792	Magic attack to the enemy of a long distance.(Two Hand Staff)
@@ -1369,7 +1369,7 @@ SKILL_20150317_001368	Flu Flu
 SKILL_20150317_001369	Shoot arrows that make sound. Also affect enemies nearby.
 SKILL_20150317_001370	Attack #{SkillAtkAdd}#{nl}target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Chaos]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to max. target #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duration #{CaptionTime}#
 SKILL_20150317_001371	Flare shot
-SKILL_20150317_001372	Shoot flash arrow on ground. Flame bouncing off the ground inflict damage on enemies.
+SKILL_20150317_001372	Shoot flash arrow on ground. Flame bounces off the ground inflicting damage on enemies.
 SKILL_20150317_001373	Attack #{SkillAtkAdd}#{nl}Duration 10 seconds
 SKILL_20150317_001374	Cloaking
 SKILL_20150317_001375	Hide.
@@ -1378,7 +1378,7 @@ SKILL_20150317_001377	Undistance
 SKILL_20150317_001378	Distort your location and make close range attacks possible even from afar.
 SKILL_20150317_001379	Max. duration 10 seconds {nl} #{CaptionRatio}# SP consumed per second
 SKILL_20150317_001380	Scan
-SKILL_20150317_001381	I shows the subject that are hidden within the front of the.
+SKILL_20150317_001381	Shows the subject that are hidden within the front of the player.
 SKILL_20150317_001382	Duration 10 seconds
 SKILL_20150317_001383	Be Prepared
 SKILL_20150317_001384	Reduce reuse skill time of all current skills
@@ -1408,8 +1408,8 @@ SKILL_20150317_001407	Shoot feet of target to slow it down.
 SKILL_20150317_001408	Lv.1 Attack rate #{SkillFactor}# Lv.2 Attack rate #{SkillFactor}# Lv.3 Attack rate #{SkillFactor}#
 SKILL_20150317_001409	Prevent enemy from moving. Enemy will temporarily slow down when released.
 SKILL_20150317_001410	Install turret the inflicts damage to enemies in front.
-SKILL_20150317_001411	Install scarecrow that provoked enemies to attack itself.
-SKILL_20150317_001412	Temporaily bline enemy. Enemy cannot use skill.
+SKILL_20150317_001411	Set up a scarecrow that provokes enemies to attack it.
+SKILL_20150317_001412	Temporaily blind enemy. Enemy cannot use skill.
 SKILL_20150317_001413	Chance of Blindness #{CaptionRatio}#% {nl} Consume #{SpendSP}# SP
 SKILL_20150317_001414	Saber Thrust
 SKILL_20150317_001415	Saber Bash
